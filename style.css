@@ -1,0 +1,99 @@
+.header{ 
+  background-color:rgb(34, 208, 227) ; 
+  padding-top: 25px; 
+  padding-bottom: 25px;
+} 
+.me{ 
+  display:block;  
+  margin: 0 auto; 
+  width: 400px; 
+} 
+.nav-list-link{ 
+  color: aliceblue;  
+transition: 2s;
+ font-size: 22px;
+} 
+.nav-list-link:hover{ 
+  color: #000000; 
+} 
+.nav-ul{ 
+  display: flex;  
+  gap: 50px; 
+  justify-content: center; 
+  align-items: center;
+ 
+} 
+.section-ul{ 
+ display: flex; 
+ justify-content: center; 
+ gap: 20px; 
+ font-size: 20px; 
+ flex-direction: column; 
+ align-items: center;
+} 
+.about-me-title{ 
+  display: flex; 
+  justify-content: center;
+} 
+.about-me-text{ 
+  display: flex; 
+  justify-content: center;
+} 
+.section-ul{ 
+  display: flex; 
+  justify-content: center;
+} 
+.my-skills-title{ 
+display: flex; 
+justify-content: center;
+} 
+.hobby-title{ 
+  display: flex; 
+  justify-content: center;
+} 
+.img-swimming{ 
+  width: 350px; 
+} 
+.swimming-list{ 
+  display:flex; 
+  flex-wrap:wrap; 
+  gap: 35px; 
+  justify-content: center;
+}
+.swimming-title{ 
+  display: flex; 
+  justify-content: center; 
+  margin-top: 10px; 
+  margin-bottom: 10px;
+} 
+.lego-title{
+  display: flex; 
+  justify-content: center; 
+  margin-top: 10px; 
+  margin-bottom: 10px;
+} 
+.lego-list{ 
+  display:flex; 
+  flex-wrap:wrap; 
+  gap: 35px; 
+  justify-content: center;
+} 
+.img-lego{ 
+  width: 350px; 
+} 
+.draw-title{ 
+  display: flex; 
+  justify-content: center; 
+  margin-top: 10px; 
+  margin-bottom: 10px;
+} 
+.draw-list{ 
+  display:flex; 
+  flex-wrap:wrap; 
+  gap: 35px; 
+  justify-content: center; 
+  margin-bottom: 10px;
+} 
+.img-draw{ 
+  width: 350px; 
+}
